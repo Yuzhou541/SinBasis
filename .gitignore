@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+.idea/
+*.zip
+*.rar
+*.7z
+*.log
+*.tmp
+.DS_Store
