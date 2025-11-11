@@ -1,0 +1,1 @@
+python -m src.train trainer.max_epochs=1 data.name=dummy model.name=cnn\n
